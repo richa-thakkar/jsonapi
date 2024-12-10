@@ -1,13 +1,19 @@
 {
   "tasks": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-      {
-      "id": 2,
-      "title": "hello2"
-    }
+  {
+    "id": 1,
+    "title": "Complete Assignment",
+    "priority": "High",
+    "dueDate": "2024-12-15",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Prepare Presentation",
+    "priority": "Medium",
+    "dueDate": "2024-12-20",
+    "completed": true
+  },
   ]
  
 }
