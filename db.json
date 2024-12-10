@@ -1,8 +1,11 @@
-[
- {
-   'id':1,
-   'task': task 1,
-   'status': completed
- }
-  
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
